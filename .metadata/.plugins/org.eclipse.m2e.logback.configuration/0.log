@@ -576,3 +576,15 @@
 2018-07-04 22:00:36,629 [Worker-22: Launching First] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-07-04 22:00:36,631 [Worker-22: Launching First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-07-04 22:00:36,762 [Worker-22: Launching First] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\jsystem\workspace\auto_test\src\test\resources
+2018-07-04 22:12:13,458 [Worker-27: Launching First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 22:12:13,465 [Worker-27: Launching First] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 22:12:13,466 [Worker-27: Launching First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 22:12:13,478 [Worker-27: Launching First] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\jsystem\workspace\auto_test\src\test\resources
+2018-07-04 22:13:45,564 [Worker-27: Launching First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 22:13:45,578 [Worker-27: Launching First] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 22:13:45,584 [Worker-27: Launching First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 22:13:45,597 [Worker-27: Launching First] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\jsystem\workspace\auto_test\src\test\resources
+2018-07-04 22:14:38,815 [Worker-29: Launching First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 22:14:38,825 [Worker-29: Launching First] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-04 22:14:38,827 [Worker-29: Launching First] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-04 22:14:38,841 [Worker-29: Launching First] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\jsystem\workspace\auto_test\src\test\resources

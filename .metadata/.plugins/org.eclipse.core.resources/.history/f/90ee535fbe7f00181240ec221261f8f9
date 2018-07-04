@@ -4,9 +4,7 @@ public class First {
 
 	public static void main(String[] args) {
 		System.out.println("Hello, world!");
-		int l = 6;
-		int s = l*l;
-		System.out.println("Площадь со стороной " + l + " = " + s);
+		System.out.println("Площадь со стороной " + 5 + " = " + (5 * 5));
 		
 	}
 
