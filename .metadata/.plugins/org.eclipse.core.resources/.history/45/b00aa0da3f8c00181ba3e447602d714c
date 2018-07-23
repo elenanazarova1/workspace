@@ -1,0 +1,29 @@
+package auto_test;
+
+import java.io.IOException;
+
+public class Friday {
+
+	public static void main(String[] args) throws IOException {
+		int A = 5;
+		int B = 10;
+		
+		int pl = System.in.read();
+		
+		System.out.println("Вывод pl = " + pl);
+		
+		int a = System.in.read();
+		int b = System.in.read();
+		int c = System.in.read();
+		int d = System.in.read();
+		
+		System.out.println("Вывод a = " + a);
+		System.out.println("Вывод b = " + b);
+		System.out.println("Вывод c = " + c);
+		System.out.println("Вывод d = " + d);
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}
